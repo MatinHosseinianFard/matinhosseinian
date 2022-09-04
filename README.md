@@ -9,7 +9,7 @@ class BackEndDeveloper:
     def __init__(self):
         self.name = "Matin Hosseinian Fard"
         self.role = "Back-End Developer"
-        self.skills = ["Django", "Django Rest Framework", "Authentication", "Postgresql", "Linux", "Git"]
+        self.skills = ["Python", "Django", "Django Rest Framework", "Postgresql", "Linux", "Git"]
         self.familiar_with = ["Docker", "Celery"]
         self.language = ["English", "Persian"]
 
